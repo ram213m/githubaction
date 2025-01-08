@@ -6,6 +6,6 @@ def test_add():
     assert add(-1,-1) == -2
 
 def test_sub():
-    assert sub(5,0) == 15
+    assert sub(5,0) == 5
     assert sub(-1,1) == -2
     assert sub(-1,-1) == 0
